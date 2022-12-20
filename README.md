@@ -1,6 +1,8 @@
-I am a software developer from Hannover, Germany who is highly interested in current web development trends. As someone who is constantly seeking to improve my skills and knowledge, I am always exploring new technologies and techniques that can help me to better serve my clients and create innovative software solutions.
+I am a software developer from Hannover, Germany who is highly interested in current web development trends. As someone who is constantly seeking to improve my skills and knowledge, I am always exploring new technologies and techniques that can help me to create innovative software solutions.
 
-I enjoy working with JavaScript on a variety of different projects, and I find it to be a very versatile and powerful language. I am always looking for new ways to utilize it to its full potential, and I am particularly interested in using it to build microfrontend applications. I am always exploring new techniques and technologies that can help me to improve my product and create innovative software solutions.
+I enjoy working with JavaScript on a variety of different projects, and I find it to be a very versatile and powerful language. I am always looking for new ways to utilize it to its full potential, and I am particularly interested in using it to build microfrontend applications.
+
+In addition to my work with JavaScript, I have also developed a strong interest in the programming language Rust. Although I have not yet had the opportunity to work with Rust in a professional setting, I have spent a significant amount of time learning about the language and exploring its capabilities.
 
 In addition I am also an avid dev ops enthusiast. I believe that automation is key to streamlining the software development process, and I enjoy finding new ways to incorporate it into my work. Whether it's setting up continuous integration pipelines, automating deployment processes, or implementing monitoring and logging systems, I am always looking for ways to make the software development cycle more efficient and effective.
 
