@@ -1,15 +1,47 @@
-I am a software developer from Hannover, Germany who is highly interested in current web development trends. As someone who is constantly seeking to improve my skills and knowledge, I am always exploring new technologies and techniques that can help me to create innovative software solutions.
+I am a software developer from Hannover, Germany, with a strong interest in current
+web development trends. I am always seeking to improve my skills and explore new
+technologies to create innovative software solutions.
 
-I enjoy working with JavaScript on a variety of different projects, and I find it to be a very versatile and powerful language. I am always looking for new ways to utilize it to its full potential, and I am particularly interested in using it to build microfrontend applications.
+I primarily work with Typescript across various projects, and I fnd it to be a versatile
+and powerful language. I’m particularly focused on using it to build microfrontend
+applications, constantly looking for ways to maximize its potential in scalable web
+development.
 
-In addition to my work with JavaScript, I have also developed a strong interest in the programming language Rust. Although I have not yet had the opportunity to work with Rust in a professional setting, I have spent a significant amount of time learning about the language and exploring its capabilities.
+In addition to Typescript, I regularly work with Go in my professional projects. Go
+has become a go-to language for me because it gets the job done effciently and is
+straightforward to work with. I enjoy how its simplicity helps me stay productive while
+tackling a wide range of tasks. Privately, I also enjoy experimenting with Rust, although
+I haven’t used it in a professional setting yet. I am fascinated by its performance and
+safety features and often explore its applications in side projects.
 
-In addition I am also an avid dev ops enthusiast. I believe that automation is key to streamlining the software development process, and I enjoy finding new ways to incorporate it into my work. Whether it's setting up continuous integration pipelines, automating deployment processes, or implementing monitoring and logging systems, I am always looking for ways to make the software development cycle more efficient and effective.
+I am also a DevOps enthusiast, with a strong belief in the power of automation to
+streamline the software development process. Whether it's setting up continuous
+integration pipelines, automating deployments, or implementing monitoring and
+logging systems, I’m always looking for ways to make the development cycle more
+effcient and reliable.
 
-One of the things that I love most about my work as a software developer is the opportunity to solve complex problems. I enjoy the challenge of understanding the underlying issues that are causing problems in a system, and coming up with creative solutions to address them. Whether it's working on my own codebase or diving into the overall structure of a software company to get a better understanding of the big picture, I am always looking for ways to improve and optimize the systems I work on.
+Recently, I’ve become deeply engaged in improving the developer experience
+within my organization. Acting as a bridge between development and operations,
+I’ve focused on implementing tools and practices that make the development
+process smoother and more productive. I’m particularly interested in enhancing the
+workfows that help developers do their best work by removing friction, providing
+clear paths, and enabling faster feedback loops. This role has sharpened my ability to
+collaborate across teams and create environments that allow developers to thrive.
+What excites me most about software development is solving complex problems.
+I thrive on understanding the underlying issues in a system and crafting creative
+solutions to address them. Whether it's improving my own codebase or diving into the
+architecture of a broader software system, I’m always looking for ways to optimize
+and enhance performance.
 
-As a self-taught autodidact, I am also constantly investing in my own learning and development. I believe that it is important to stay up-to-date with the latest technologies and best practices in the field, and I am always looking for ways to expand my knowledge and skills. Whether it's through reading technical books, participating in online courses, or attending industry conferences and events, I am committed to staying on the cutting edge of software development.
+As a self-taught developer, I am constantly investing in my personal learning and
+growth. I make it a priority to stay updated with the latest technologies and industry
+practices through reading, online courses, and attending conferences.
+While I’m passionate about individual development, I also value collaboration and
+teamwork. I believe in fostering a strong team culture and working closely with others
+to achieve the best results. Whether it’s collaborating with clients or colleagues, I
+know that communication and positive team dynamics are essential to delivering
+great results.
 
-On the other hand, I also value collaboration and teamwork. I believe that it is important to have a strong team culture and to work well with others in order to achieve success. Whether it's working with clients to understand their needs and requirements, or collaborating with colleagues to find the best solutions to problems, I believe that effective communication and a positive team atmosphere are key to achieving great results.
-
-Overall, I am a passionate software developer who is dedicated to delivering high-quality software solutions and improving my skills and knowledge in the field. I am excited to see what the future holds and to continue learning and growing as a developer.
+Overall, I am a passionate software developer dedicated to delivering high-quality
+solutions and continually growing in my feld. I look forward to embracing new
+challenges and expanding my expertise in the future.
